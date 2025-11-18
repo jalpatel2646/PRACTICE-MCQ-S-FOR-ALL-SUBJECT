@@ -892,3 +892,74 @@ This document contains multiple-choice questions (MCQs) on the CSS topic **Dropd
     D. :checked
     **Answer:** B. :focus
 
+CSS MCQs - Gallery
+
+Which CSS property is commonly used to create an image gallery layout?
+A. display: flex
+B. display: grid
+C. float
+D. Both A and B
+Answer: D. Both A and B
+
+Which property sets the spacing between gallery items in a grid layout?
+A. gap
+B. margin
+C. padding
+D. spacing
+Answer: A. gap
+
+How can you make gallery images responsive?
+A. width: 100%;
+B. max-width: 100%;
+C. height: auto;
+D. All of the above
+Answer: D. All of the above
+
+Which property controls the alignment of items in a flex gallery?
+A. justify-content
+B. align-items
+C. both A and B
+D. text-align
+Answer: C. both A and B
+
+Which CSS property can add hover effects to gallery images?
+A. transition
+B. transform
+C. filter
+D. All of the above
+Answer: D. All of the above
+
+How do you ensure images in a gallery do not overflow their container?
+A. overflow: hidden;
+B. object-fit: cover;
+C. both A and B
+D. float: none;
+Answer: C. both A and B
+
+Which property sets the number of columns in a CSS grid gallery?
+A. grid-template-columns
+B. column-count
+C. grid-columns
+D. Both A and B
+Answer: D. Both A and B
+
+How can you create a masonry-style gallery?
+A. CSS Grid with auto-fill/auto-fit
+B. CSS Flexbox with wrapping
+C. Both A and B
+D. float only
+Answer: C. Both A and B
+
+Which property can make gallery images zoom slightly on hover?
+A. transform: scale(1.1);
+B. opacity: 0.5;
+C. visibility: hidden;
+D. filter: blur(5px);
+Answer: A. transform: scale(1.1);
+
+How do you make captions appear over images in a gallery?
+A. position: absolute;
+B. z-index: higher value;
+C. transition for fade-in effect;
+D. All of the above
+Answer: D. All of the above
