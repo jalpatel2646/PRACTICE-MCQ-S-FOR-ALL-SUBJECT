@@ -297,3 +297,151 @@ B. Error-intolerant
 C. Error-tolerant
 D. Non-flexible
 **Answer: C**
+
+---
+
+## 5. CSS Colors
+
+**Q1. Which property changes the text color?**
+A. font-color
+B. text-color
+C. color
+D. font-style
+**Answer: C**
+
+**Q2. Which color value is valid in CSS?**
+A. #FF0000
+B. rgb(255,0,0)
+C. red
+D. All of the above
+**Answer: D**
+
+**Q3. How to make text semi-transparent?**
+A. color: rgba(255,0,0,0.5);
+B. color-opacity: 0.5;
+C. transparency: 0.5;
+D. alpha-color: 0.5;
+**Answer: A**
+
+**Q4. Hex color #000000 represents:**
+A. White
+B. Black
+C. Blue
+D. Red
+**Answer: B**
+
+**Q5. Which CSS function returns a lighter color?**
+A. lighten()
+B. darken()
+C. adjust()
+D. color()
+**Answer: A**
+
+**Q6. The default color of text is:**
+A. Black
+B. White
+C. Red
+D. Blue
+**Answer: A**
+
+**Q7. Which is a valid CSS color keyword?**
+A. aqua
+B. fuchsia
+C. lime
+D. All of the above
+**Answer: D**
+
+**Q8. Which property sets background color?**
+A. color
+B. background-color
+C. bg-color
+D. background
+**Answer: B**
+
+**Q9. How to define RGB color with 50% opacity?**
+A. rgba(0,255,0,0.5)
+B. rgb(0,255,0,50%)
+C. opacity(0.5)
+D. color-opacity:0.5
+**Answer: A**
+
+**Q10. Transparent color is represented as:**
+A. #00000000
+B. transparent
+C. rgba(0,0,0,0)
+D. All of the above
+**Answer: D**
+
+---
+
+## 6. CSS Background
+
+**Q1. Property to set background image:**
+A. background-img
+B. bg-image
+C. background-image
+D. image-background
+**Answer: C**
+
+**Q2. Repeat background image horizontally and vertically:**
+A. background-repeat: repeat;
+B. background-repeat: no-repeat;
+C. background-repeat: repeat-x;
+D. background-repeat: repeat-y;
+**Answer: A**
+
+**Q3. Background color property:**
+A. color
+B. background-color
+C. bg-color
+D. backdrop-color
+**Answer: B**
+
+**Q4. Background shorthand property includes:**
+A. color
+B. image
+C. repeat
+D. All of the above
+**Answer: D**
+
+**Q5. To fix background image during scroll:**
+A. background-attachment: fixed;
+B. background-position: fixed;
+C. background-scroll: no;
+D. background-lock: yes;
+**Answer: A**
+
+**Q6. Background image can be positioned using:**
+A. background-position
+B. bg-position
+C. position
+D. image-position
+**Answer: A**
+
+**Q7. Background-size property used for:**
+A. Setting size of image
+B. Setting opacity
+C. Setting border
+D. Setting padding
+**Answer: A**
+
+**Q8. background-clip controls:**
+A. Border visibility
+B. How background extends
+C. Text color
+D. Font size
+**Answer: B**
+
+**Q9. Multiple backgrounds are separated by:**
+A. Comma
+B. Semicolon
+C. Space
+D. Pipe
+**Answer: A**
+
+**Q10. Background shorthand can include:**
+A. color
+B. image
+C. repeat
+D. All of the above
+**Answer: D**
