@@ -7,6 +7,7 @@ This document contains 150 multiple-choice questions on CSS, covering 15 topics.
 ## 1. Introduction to CSS
 
 **Q1. CSS stands for:** 
+
 A. Computer Style Sheets
 B. Creative Style System
 C. Cascading Style Sheets
