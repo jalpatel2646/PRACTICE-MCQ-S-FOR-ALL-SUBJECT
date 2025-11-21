@@ -4,10 +4,9 @@
 
 
 A. .p
-
-B. #p  
-C. p
-D. *p
+B. #p   
+C. p  
+D. *p  
 
 **Answer: C**
 ##
